@@ -12,7 +12,7 @@ html body{
 body{
     width: 100vw;
     color: #fff;
-    background-color: cyan;
+    background-color: white;
     background-image: url(Pictures/Background.png);
     background-repeat: repeat-y;
 }
